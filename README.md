@@ -14,11 +14,11 @@ therefore function as a sensor network, which can be used for studying
 mobility in a city.
 
 ### Problem Statement
-In this project, you are asked to combine historical usage patterns with
+In this project, we are asked to combine historical usage patterns with
 weather data in order to forecast hourly bike rental demand.
 
 ### Data
-You are provided with following files:
+We are provided with following files:
 1. train.csv : Use this dataset to train the model. This file contains all the
 weather related features as well as the target variable “count”. Train
 dataset is comprised of first 18 months.
